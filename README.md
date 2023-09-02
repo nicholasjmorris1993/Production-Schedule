@@ -1,2 +1,2 @@
 # Production-Schedule
-Schedule production runs for each time period to satisfy forecasted demand.
+Schedule production runs for each time period to satisfy demand forecasts.
